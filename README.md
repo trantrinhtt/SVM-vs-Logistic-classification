@@ -1,4 +1,4 @@
-# SVM-vs-Logistic-classification
+# SVM vs Logistic as Classification Techniques
 This repository examines several data sets and compares SVM vs Logistic as classification techniques
 
 ## Data Sets
